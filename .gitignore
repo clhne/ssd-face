@@ -1,0 +1,14 @@
+build
+snapshot
+*_lmdb
+*_lmdb
+*.caffemodel
+__model__
+params
+.vs
+.vscode
+models
+results
+data
+jobs
+cpp4caffe
